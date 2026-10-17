@@ -118,8 +118,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-<img width="883" height="547" alt="Screenshot 2026-10-08 194107" src="https://github.com/user-attachments/assets/1dcdb27c-0068-4e08-a39f-cdd1f83dacd6" />
-
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/8fa50ba3-f2f8-466d-9205-7be870c44515" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
